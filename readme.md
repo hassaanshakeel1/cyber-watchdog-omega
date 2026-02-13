@@ -1,16 +1,34 @@
-# 🛡️ Cyber-Watchdog: Omega Protocol
+🛡️ Cyber-Watchdog: Omega Protocol
+Architects: Hassaan Shakeel 
 
-**Architects:** Hassaan Shakeel & Ahmad Ali  
-
-## 🚀 Overview
-Cyber-Watchdog ek advanced C++ security tool hai. Ye malware patterns ko pehchanta hai aur Jaccard Index ke zariye code plagiarism check karta hai.
 ![CyberWatchdog Preview](watchdog-image.png)
-### 🛠️ Main Features
-* **Threat Detection:** Ransomware aur virus ki nishaniyan dhoondta hai.
-* **Plagiarism Score:** Do files ke darmiyan similarity check karta hai.
-* **3D HTML Report:** Ye tool khud-ba-khud ek professional report banata hai jisay aap browser mein dekh sakte hain.
 
-## 💻 Kaise Chalayein?
-1. **Compile:** `g++ cyberwatchdog.cpp -o watchdog`
-2. **Run:** `./watchdog`
-3. **Result:** Report dekhne ke liye `CyberWatchdog_Warfare.html` file open karein.
+🚀 Overview
+Cyber-Watchdog is an advanced C++ security engine designed for deep-field analysis. It specializes in identifying malware patterns and performing word-level plagiarism detection using the Jaccard Index algorithm.
+
+🛠️ Key Features
+Heuristic Threat Detection: Proactively identifies indicators of ransomware and malicious code patterns.
+
+Plagiarism Analysis: Calculates precise similarity scores between two files to detect content theft or code duplication.
+
+3D HTML Reporting: Automatically generates a professional, high-fidelity interactive forensic report viewable in any modern web browser.
+
+Entropy Depth Mapping: Analyzes file zones (Header, Code, Data, and Overlay) to detect hidden packers or encrypted payloads.
+
+💻 Getting Started
+1. Compilation
+Use a C++ compiler (such as G++) to build the executable:
+
+2. Execution
+Run the tool from your terminal and provide the requested file paths:
+
+3. Review Results
+Once the scan is complete, open the generated forensic report in your browser:
+CyberWatchdog_Warfare.html
+
+🔧 Technologies Used
+Language: C++
+
+Algorithms: Jaccard Similarity, Levenshtein Distance, and DJB2 Hashing
+
+Visualization: HTML5, CSS3, and JavaScript (Chart.js & Vanilla-Tilt)
