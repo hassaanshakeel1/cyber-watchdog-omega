@@ -4,7 +4,7 @@
 
 ## 🚀 Overview
 Cyber-Watchdog ek advanced C++ security tool hai. Ye malware patterns ko pehchanta hai aur Jaccard Index ke zariye code plagiarism check karta hai.
-
+![CyberWatchdog Preview](watchdog-image.png)
 ### 🛠️ Main Features
 * **Threat Detection:** Ransomware aur virus ki nishaniyan dhoondta hai.
 * **Plagiarism Score:** Do files ke darmiyan similarity check karta hai.
