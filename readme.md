@@ -1,6 +1,7 @@
 🛡️ Cyber-Watchdog: Omega Protocol
 
 Architect: Hassaan Shakeel
+
 Engine Type: Advanced Static Security & Similarity Intelligence Framework
 Core Language: C++
 
