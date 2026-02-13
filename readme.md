@@ -1,11 +1,10 @@
 🛡️ Cyber-Watchdog: Omega Protocol
 Architects: Hassaan Shakeel 
 
-![CyberWatchdog Preview](watchdog-image.png)
-
 🚀 Overview
 Cyber-Watchdog is an advanced C++ security engine designed for deep-field analysis. It specializes in identifying malware patterns and performing word-level plagiarism detection using the Jaccard Index algorithm.
 
+![CyberWatchdog Preview](watchdog-image.png)
 🛠️ Key Features
 Heuristic Threat Detection: Proactively identifies indicators of ransomware and malicious code patterns.
 
